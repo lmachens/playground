@@ -8,9 +8,3 @@ body {
   background-color: var(--main-bg-color);
   color: var(--main-color);
 }
-
-button {
-  border: 1px var(--border-style) var(--main-color);
-  background-color: var(--main-bg-color);
-  color: var(--main-color);
-}
