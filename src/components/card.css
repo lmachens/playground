@@ -1,0 +1,7 @@
+.card {
+  border-radius: 10px;
+  border: 2px solid var(--main-color);
+  display: grid;
+  place-items: center;
+  padding: 10px;
+}
